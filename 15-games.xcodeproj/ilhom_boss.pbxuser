@@ -1,0 +1,228 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* _5_gamesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 396}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 471}";
+		};
+	};
+	1D3623250D0F684500981E51 /* _5_gamesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 476}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 579}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* 15-games */ = {
+		activeExec = 0;
+		executables = (
+			EC8BC0171211A8680047CE99 /* 15-games */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* _5_gamesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 637}}";
+			sepNavSelRange = "{231, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{107, 99}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* _5_gamesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 11947}}";
+			sepNavSelRange = "{24333, 0}";
+			sepNavVisRange = "{23823, 1108}";
+			sepNavWindowFrame = "{{203, 88}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC8BC0171211A8680047CE99 /* 15-games */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* 15-games */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* 15-games */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = EC8BC01E1211A86D0047CE99 /* Code sense */;
+		executables = (
+			EC8BC0171211A8680047CE99 /* 15-games */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					467,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					604,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					537,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305011527;
+			PBXWorkspaceStateSaveDate = 305011527;
+		};
+		perUserProjectItems = {
+			EC715DE9122E1B930010938B /* XCBuildMessageTextBookmark */ = EC715DE9122E1B930010938B /* XCBuildMessageTextBookmark */;
+			EC715DF8122E1BB40010938B /* PBXTextBookmark */ = EC715DF8122E1BB40010938B /* PBXTextBookmark */;
+			EC7C297C121A5E4000E33885 /* PBXTextBookmark */ = EC7C297C121A5E4000E33885 /* PBXTextBookmark */;
+			EC819966121682B3000983A7 /* PBXTextBookmark */ = EC819966121682B3000983A7 /* PBXTextBookmark */;
+			EC8D8EEE1219BA1C0031B232 /* PBXTextBookmark */ = EC8D8EEE1219BA1C0031B232 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC8BC01D1211A86D0047CE99 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC715DE9122E1B930010938B /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier or '(' before '/' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* _5_gamesViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 819;
+		rType = 1;
+	};
+	EC715DF8122E1BB40010938B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _5_gamesViewController.m */;
+		name = "_5_gamesViewController.m: 820";
+		rLen = 0;
+		rLoc = 24333;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 23823;
+	};
+	EC7C297C121A5E4000E33885 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC897F5612127553004668CD /* _5_gamesViewController.h */;
+		name = "_5_gamesViewController.h: 55";
+		rLen = 40;
+		rLoc = 1666;
+		rType = 0;
+		vrLen = 1497;
+		vrLoc = 217;
+	};
+	EC819966121682B3000983A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* _5_gamesAppDelegate.m */;
+		name = "_5_gamesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	EC897F5612127553004668CD /* _5_gamesViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = _5_gamesViewController.h;
+		path = "/Users/ilhom_boss/Documents/15-games/Classes/_5_gamesViewController.h";
+		sourceTree = "<absolute>";
+	};
+	EC8BC0171211A8680047CE99 /* 15-games */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "15-games";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	EC8BC01D1211A86D0047CE99 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC8BC01E1211A86D0047CE99 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC8D8EEE1219BA1C0031B232 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* _5_gamesAppDelegate.h */;
+		name = "_5_gamesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 0;
+	};
+}

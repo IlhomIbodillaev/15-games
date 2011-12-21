@@ -1,0 +1,300 @@
+T15-games
+v7
+r0
+t340445971.542685
+cCheck dependencies
+cProcessInfoPlistFile /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/Info.plist _5_games-Info.plist
+cCompileXIB /Users/muhammadyakubbaev/Desktop/ready/15-games/MainWindow.xib
+cCompileXIB /Users/muhammadyakubbaev/Desktop/ready/15-games/_5_gamesViewController.xib
+cCpResource build/Debug-iphonesimulator/15-games.app/Icon.png Icon.png
+cProcessPCH /var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch.gch _5_games_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/main.o /Users/muhammadyakubbaev/Desktop/ready/15-games/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesAppDelegate.o /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesViewController.o /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games normal i386
+cGenerateDSYMFile /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app.dSYM /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games
+cTouch /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/time.h
+c000000004CB3E486000000000000178E
+t1286857862
+s6030
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.h
+c000000004C6170E800000000000001D7
+t1281454312
+s471
+i<UIKit/UIKit.h>
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m
+c000000004C6170E80000000000000261
+t1281454312
+s609
+i"_5_gamesAppDelegate.h"
+i"_5_gamesViewController.h"
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.h
+c000000004C6983EE00000000000006B2
+t1281983470
+s1714
+i<UIKit/UIKit.h>
+i<stdio.h>
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m
+c000000004C7DE4120000000000006192
+t1283318802
+s24978
+i"_5_gamesViewController.h"
+i<time.h>
+i<stdlib.h>
+i<math.h>
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/Icon.png
+c0000000049F73E480000000000001C63
+t1240940104
+s7267
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/MainWindow.xib
+c000000004C6170E80000000000002420
+t1281454312
+s9248
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/_5_gamesViewController.xib
+c000000004C6A278E000000000000D142
+t1282025358
+s53570
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/_5_games_Prefix.pch
+c000000004C6170E800000000000000B9
+t1281454312
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/15-games.LinkFileList
+c000000004E9A938500000000000001B0
+t1318753157
+s432
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesAppDelegate.o
+t1318753170
+s49016
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesViewController.o
+t1318753171
+s102148
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/main.o
+t1318753170
+s6344
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app
+t1318753171
+s272
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app.dSYM
+t1318753171
+s102
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games
+t1318753171
+s51992
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/Icon.png
+t1318753166
+s7267
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/Info.plist
+t1318753157
+s629
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/MainWindow.nib
+t1318753165
+s1101
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/PkgInfo
+t1318753157
+s8
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/_5_gamesViewController.nib
+t1318753166
+s6025
+
+N/Users/muhammadyakubbaev/Desktop/ready/15-games/main.m
+c000000004C6170E8000000000000015C
+t1281454312
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch.gch
+t1318753169
+s15453392
+
+N_5_games-Info.plist
+c000000004C6A1AF60000000000000395
+t1282022134
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340445953#340445957#0(0"0(0#1#0"7310589356877312000#0"0#
+
+CCompileC build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesAppDelegate.o /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340445970.076184
+e340445970.491015
+r1
+xCompileC
+xbuild/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesAppDelegate.o
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m340445970#340445970#0(0"0(0#0#77"/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m8599904160#2095"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-generated-files.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-own-target-headers.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-all-target-headers.hmap -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-project-headers.hmap -F/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/include -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources/i386 -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources -include /var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch -c /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesAppDelegate.m -o /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesAppDelegate.o0#
+
+CCompileC build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesViewController.o /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340445970.417622
+e340445971.026724
+r1
+xCompileC
+xbuild/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesViewController.o
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m340445970#340445971#0(0"0(0#0#80"/Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m8606545312#2101"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-generated-files.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-own-target-headers.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-all-target-headers.hmap -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-project-headers.hmap -F/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/include -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources/i386 -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources -include /var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch -c /Users/muhammadyakubbaev/Desktop/ready/15-games/Classes/_5_gamesViewController.m -o /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/_5_gamesViewController.o0#
+
+CCompileC build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/main.o /Users/muhammadyakubbaev/Desktop/ready/15-games/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340445970.074055
+e340445970.417425
+r1
+xCompileC
+xbuild/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/main.o
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/muhammadyakubbaev/Desktop/ready/15-games/main.m340445970#340445970#0(0"0(0#0#54"/Users/muhammadyakubbaev/Desktop/ready/15-games/main.m8600063680#2057"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-generated-files.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-own-target-headers.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-all-target-headers.hmap -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-project-headers.hmap -F/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/include -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources/i386 -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources -include /var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch -c /Users/muhammadyakubbaev/Desktop/ready/15-games/main.m -o /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/muhammadyakubbaev/Desktop/ready/15-games/MainWindow.xib
+s340445957.301031
+e340445965.796330
+r1
+xCompileXIB
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib340445957#340445965#0(0"0(0#0#62"/Users/muhammadyakubbaev/Desktop/ready/15-games/MainWindow.xib8600204576#622"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/MainWindow.nib /Users/muhammadyakubbaev/Desktop/ready/15-games/MainWindow.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/muhammadyakubbaev/Desktop/ready/15-games/_5_gamesViewController.xib
+s340445957.308444
+e340445967.439152
+r1
+xCompileXIB
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/_5_gamesViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB _5_gamesViewController.xib340445957#340445967#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/muhammadyakubbaev/Desktop/ready/15-games/_5_gamesViewController.xib8601108448#646"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/_5_gamesViewController.nib /Users/muhammadyakubbaev/Desktop/ready/15-games/_5_gamesViewController.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/15-games.app/Icon.png Icon.png
+s340445965.796664
+e340445966.443835
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/15-games.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png340445965#340445966#0(0"0(0#0#56"/Users/muhammadyakubbaev/Desktop/ready/15-games/Icon.png8600914048#512"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/muhammadyakubbaev/Desktop/ready/15-games/Icon.png /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app0#
+
+CGenerateDSYMFile /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app.dSYM /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games
+s340445971.414213
+e340445971.508667
+r1
+xGenerateDSYMFile
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app.dSYM
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/15-games.app.dSYM build/Debug-iphonesimulator/15-games.app/15-games340445971#340445971#0(0"0(0#0#97"/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games8601566368#431"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/dsymutil /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games -o /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app.dSYM0#
+
+CLd /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games normal i386
+s340445971.026910
+e340445971.414028
+r1
+xLd
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games
+xnormal
+xi386
+lSLF07#2@102"Link /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games340445971#340445971#0(0"0(0#0#0"8604849632#974"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator -F/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator -filelist /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/Objects-normal/i386/15-games.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/15-games0#
+
+CProcessInfoPlistFile /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/Info.plist _5_games-Info.plist
+s340445957.269033
+e340445957.300844
+r1
+xProcessInfoPlistFile
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/Info.plist
+x_5_games-Info.plist
+lSLF07#2@27"Process _5_games-Info.plist340445957#340445957#0(0"0(0#0#67"/Users/muhammadyakubbaev/Desktop/ready/15-games/_5_games-Info.plist31525614006435956#521"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility _5_games-Info.plist -genpkginfo /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app/Info.plist0#
+
+CProcessPCH /var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch.gch _5_games_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340445967.439610
+e340445970.073743
+r1
+xProcessPCH
+x/var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch.gch
+x_5_games_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile _5_games_Prefix.pch340445967#340445970#0(0"0(0#0#67"/Users/muhammadyakubbaev/Desktop/ready/15-games/_5_games_Prefix.pch8606261600#1939"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-generated-files.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-own-target-headers.hmap -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-all-target-headers.hmap -iquote /Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/15-games-project-headers.hmap -F/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/include -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources/i386 -I/Users/muhammadyakubbaev/Desktop/ready/15-games/build/15-games.build/Debug-iphonesimulator/15-games.build/DerivedSources -c /Users/muhammadyakubbaev/Desktop/ready/15-games/_5_games_Prefix.pch -o /var/folders/c8/c8RHsxV4E0W-67XlbwIkf++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_5_games_Prefix-hiycckfcqndyvraqooxqmjxafrdi/_5_games_Prefix.pch.gch0#
+
+CTouch /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app
+s340445971.508840
+e340445971.542597
+r1
+xTouch
+x/Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app
+lSLF07#2@94"Touch /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app340445971#340445971#0(0"0(0#0#0"8601435488#309"    cd /Users/muhammadyakubbaev/Desktop/ready/15-games    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/muhammadyakubbaev/Desktop/ready/15-games/build/Debug-iphonesimulator/15-games.app0#
+
